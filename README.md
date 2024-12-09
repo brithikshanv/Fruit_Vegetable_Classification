@@ -1,5 +1,5 @@
 # Fruit and Vegetable Classificaiton
-Naan Mudhalvan Project 
+
 **OBJECTIVES OF THE PROJECT:**
 
 1.Project aims to develop a computer vision system using CNNs for accurate fruit and vegetable classification.
